@@ -22,19 +22,28 @@ El objetivo del trabajo fue analizar el funcionamiento, impacto y alcance de est
 ## 🔍 Desarrollo del análisis Contenido.
 
 ### PYTHON
-- Características generales: Lenguaje de programación de alto nivel, interpretado y de propósito general, Sintaxis simple y legible, enfocada en la claridad y facilidad de aprendizaje.
-- Fortalezas: Facilidad de aprendizaje: Su sintaxis clara y concisa lo hace ideal para principiantes y expertos, Versatilidad: Ampliamente usado en diversos dominios como machine learning (TensorFlow, scikit-learn), desarrollo web (Django, Flask) y automatización.
-- Debilidades: Dependencia de plataformas: Aunque .NET Core es multiplataforma, su ecosistema está más optimizado para Windows, Curva de aprendizaje: Puede ser más complejo para principiantes en comparación con Python.
+- Características generales: Lenguaje de programación de alto nivel, interpretado y de propósito general.
+-  Sintaxis simple y legible, enfocada en la claridad y facilidad de aprendizaje.
+- Fortalezas: Facilidad de aprendizaje: Su sintaxis clara y concisa lo hace ideal para principiantes y expertos.
+-  Versatilidad: Ampliamente usado en diversos dominios como machine learning (TensorFlow, scikit-learn), desarrollo web (Django, Flask) y automatización.
+- Debilidades: Dependencia de plataformas: Aunque .NET Core es multiplataforma, su ecosistema está más optimizado para Windows.
+- Curva de aprendizaje: Puede ser más complejo para principiantes en comparación con Python.
 
 ### C#
-- Características generales: Lenguaje de programación orientado a objetos, desarrollado por Microsoft, Utilizado principalmente en desarrollo de aplicaciones de escritorio, web (ASP.NET), videojuegos (Unity) y servicios en la nube.
-- Fortalezas: Integración con .NET: Potente para construir aplicaciones empresariales, web y de escritorio, Soporte para Unity: Ampliamente utilizado en el desarrollo de videojuegos.
-- Debilidades: Rendimiento: Al ser interpretado, es más lento que lenguajes compilados como C++ o C#, Gestión de memoria: No es ideal para aplicaciones que requieren un control fino de recursos.
+- Características generales: Lenguaje de programación orientado a objetos, desarrollado por Microsoft.
+-  Utilizado principalmente en desarrollo de aplicaciones de escritorio, web (ASP.NET), videojuegos (Unity) y servicios en la nube.
+- Fortalezas: Integración con .NET: Potente para construir aplicaciones empresariales, web y de escritorio.
+-  Soporte para Unity: Ampliamente utilizado en el desarrollo de videojuegos.
+- Debilidades: Rendimiento: Al ser interpretado, es más lento que lenguajes compilados como C++ o C#.
+-  Gestión de memoria: No es ideal para aplicaciones que requieren un control fino de recursos.
 
 ### javaScript
-- Características generales: Soporte de programación orientado a objetos, funcional y basado en eventos, Ejecutado en navegadores, permite la interactividad dinámica en páginas web.
-- Fortalezas: bicuidad: Ejecutado en todos los navegadores modernos, es esencial para el desarrollo web, Versatilidad: Con Node.js, se utiliza en backend, aplicaciones móviles (React Native) y más.
-- Debilidades: Tipado dinámico: Puede llevar a errores difíciles de depurar en aplicaciones grandes, Rendimiento: Más lento que lenguajes compilados para tareas intensivas en CPU.
+- Características generales: Soporte de programación orientado a objetos, funcional y basado en eventos.
+-  Ejecutado en navegadores, permite la interactividad dinámica en páginas web.
+- Fortalezas: bicuidad: Ejecutado en todos los navegadores modernos, es esencial para el desarrollo web.
+- Versatilidad: Con Node.js, se utiliza en backend, aplicaciones móviles (React Native) y más.
+- Debilidades: Tipado dinámico: Puede llevar a errores difíciles de depurar en aplicaciones grandes.
+-  Rendimiento: Más lento que lenguajes compilados para tareas intensivas en CPU.
 
 ---
 
@@ -42,9 +51,9 @@ El objetivo del trabajo fue analizar el funcionamiento, impacto y alcance de est
 
 | Plataforma | Rendimiento | Paradigma | Personalización | Comunidad |
 |------------|-----------  |-----------|-----------------|---------  |
-| C#         |             |           |                 |           |
+| C#         |   alto      |Alto nivel |      Alta       | grande    |
 | PYTHON     | muy alto    |alto nivel |      alta       |  grande   |
-| JavaScript |             |           |                 |           |
+| JavaScript | medio alto  |alta nivel |      alta       |muy grande |
 
 ---
 

@@ -41,7 +41,7 @@ El objetivo del trabajo fue analizar el funcionamiento, impacto y alcance de est
 ## 📊 Cuadro comparativo (lenguajes Programacion).
 
 | Plataforma | Rendimiento | Paradigma | Personalización | Comunidad |
-|------------|---  --------|-----------|-----------------|---------  |
+|------------|-----------  |-----------|-----------------|---------  |
 | C#         |             |           |                 |           |
 | PYTHON     | muy alto    |alto nivel |      alta       |  grande   |
 | JavaScript |             |           |                 |           |
